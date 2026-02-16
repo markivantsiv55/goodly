@@ -7,3 +7,4 @@ export default function HomePage() {
   return <Game config={gameConfig as GameConfig} />;
 }
 
+

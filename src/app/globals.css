@@ -8,27 +8,27 @@
 
 :root {
   /* Primary */
-  --color-primary: #ff8b37;
-  --color-primary-hover: #e87a2a;
-  --color-primary-pressed: #d4691e;
+  --color-primary: #FF8B37;
+  --color-primary-hover: #FFAC70;
+  --color-primary-pressed: #E87928;
 
   /* Backgrounds */
   --color-bg: #ffffff;
   --color-bg-start: #fef4eb;
 
   /* Text */
-  --color-text: #1c1c21;
+  --color-text: #1C1C21;
   --color-text-secondary: #868686;
 
   /* Answer states */
-  --color-answer-border: #d0d5dd;
+  --color-answer-border: #D0D0D8;
   --color-answer-hover-border: #ff8b37;
   --color-answer-selected-bg: #ffecd2;
   --color-answer-selected-border: #ff8b37;
   --color-answer-correct-bg: #e6faf0;
-  --color-answer-correct-border: #47d16c;
+  --color-answer-correct-border: #47D867
   --color-answer-wrong-bg: #fce4e4;
-  --color-answer-wrong-border: #ec6259;
+  --color-answer-wrong-border: #EC6259;
 
   /* Money ladder */
   --color-ladder-text: #1c1c21;

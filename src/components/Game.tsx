@@ -35,3 +35,4 @@ export function Game({ config }: GameProps) {
   }
 }
 
+
