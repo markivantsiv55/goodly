@@ -4,7 +4,7 @@ Quiz game built with Next.js, TypeScript, and CSS Modules.
 
 ## Demo
 
-[Live on Vercel](#) _(link to be added after deployment)_
+[Live on Vercel] (https://goodly-nu.vercel.app/)
 
 ## Tech Stack
 
@@ -24,7 +24,7 @@ Quiz game built with Next.js, TypeScript, and CSS Modules.
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/goodly.git
+git clone https://github.com/markivantsiv55/goodly
 cd goodly
 npm install
 ```
