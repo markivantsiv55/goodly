@@ -1,0 +1,66 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  /* Primary */
+  --color-primary: #ff8b37;
+  --color-primary-hover: #e87a2a;
+  --color-primary-pressed: #d4691e;
+
+  /* Backgrounds */
+  --color-bg: #ffffff;
+  --color-bg-start: #fef4eb;
+
+  /* Text */
+  --color-text: #1c1c21;
+  --color-text-secondary: #868686;
+
+  /* Answer states */
+  --color-answer-border: #d0d5dd;
+  --color-answer-hover-border: #ff8b37;
+  --color-answer-selected-bg: #ffecd2;
+  --color-answer-selected-border: #ff8b37;
+  --color-answer-correct-bg: #e6faf0;
+  --color-answer-correct-border: #47d16c;
+  --color-answer-wrong-bg: #fce4e4;
+  --color-answer-wrong-border: #ec6259;
+
+  /* Money ladder */
+  --color-ladder-text: #1c1c21;
+  --color-ladder-active: #ff8b37;
+  --color-ladder-passed: #c0bdd0;
+  --color-ladder-border: #d0d5dd;
+
+  /* Misc */
+  --color-border: #e6e6e6;
+
+  --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+    Cantarell, sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: var(--font-family);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

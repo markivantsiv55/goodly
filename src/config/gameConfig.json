@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical symbol for water?",
+      "answers": [
+        { "id": "1a", "text": "CO2", "isCorrect": false },
+        { "id": "1b", "text": "H2O", "isCorrect": true },
+        { "id": "1c", "text": "NaCl", "isCorrect": false },
+        { "id": "1d", "text": "O2", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "answers": [
+        { "id": "2a", "text": "Venus", "isCorrect": false },
+        { "id": "2b", "text": "Jupiter", "isCorrect": false },
+        { "id": "2c", "text": "Mars", "isCorrect": true },
+        { "id": "2d", "text": "Saturn", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What year did the Titanic sink?",
+      "answers": [
+        { "id": "3a", "text": "1905", "isCorrect": false },
+        { "id": "3b", "text": "1912", "isCorrect": true },
+        { "id": "3c", "text": "1920", "isCorrect": false },
+        { "id": "3d", "text": "1898", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Who painted the Mona Lisa?",
+      "answers": [
+        { "id": "4a", "text": "Vincent van Gogh", "isCorrect": false },
+        { "id": "4b", "text": "Pablo Picasso", "isCorrect": false },
+        { "id": "4c", "text": "Leonardo da Vinci", "isCorrect": true },
+        { "id": "4d", "text": "Michelangelo", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the largest ocean on Earth?",
+      "answers": [
+        { "id": "5a", "text": "Atlantic Ocean", "isCorrect": false },
+        { "id": "5b", "text": "Indian Ocean", "isCorrect": false },
+        { "id": "5c", "text": "Arctic Ocean", "isCorrect": false },
+        { "id": "5d", "text": "Pacific Ocean", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "In which country was the game of chess invented?",
+      "answers": [
+        { "id": "6a", "text": "China", "isCorrect": false },
+        { "id": "6b", "text": "India", "isCorrect": true },
+        { "id": "6c", "text": "Persia", "isCorrect": false },
+        { "id": "6d", "text": "Egypt", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the speed of light approximately in km/s?",
+      "answers": [
+        { "id": "7a", "text": "150,000 km/s", "isCorrect": false },
+        { "id": "7b", "text": "300,000 km/s", "isCorrect": true },
+        { "id": "7c", "text": "450,000 km/s", "isCorrect": false },
+        { "id": "7d", "text": "600,000 km/s", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which element has the atomic number 79?",
+      "answers": [
+        { "id": "8a", "text": "Silver", "isCorrect": false },
+        { "id": "8b", "text": "Gold", "isCorrect": true },
+        { "id": "8c", "text": "Platinum", "isCorrect": false },
+        { "id": "8d", "text": "Copper", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "answers": [
+        { "id": "9a", "text": "Charles Dickens", "isCorrect": false },
+        { "id": "9b", "text": "Mark Twain", "isCorrect": false },
+        { "id": "9c", "text": "William Shakespeare", "isCorrect": true },
+        { "id": "9d", "text": "Jane Austen", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is the smallest country in the world by area?",
+      "answers": [
+        { "id": "10a", "text": "Monaco", "isCorrect": false },
+        { "id": "10b", "text": "San Marino", "isCorrect": false },
+        { "id": "10c", "text": "Vatican City", "isCorrect": true },
+        { "id": "10d", "text": "Liechtenstein", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What programming language was created by Brendan Eich in 1995?",
+      "answers": [
+        { "id": "11a", "text": "Python", "isCorrect": false },
+        { "id": "11b", "text": "Java", "isCorrect": false },
+        { "id": "11c", "text": "C++", "isCorrect": false },
+        { "id": "11d", "text": "JavaScript", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "What is the rarest blood type in humans?",
+      "answers": [
+        { "id": "12a", "text": "O negative", "isCorrect": false },
+        { "id": "12b", "text": "AB negative", "isCorrect": true },
+        { "id": "12c", "text": "B positive", "isCorrect": false },
+        { "id": "12d", "text": "A negative", "isCorrect": false }
+      ]
+    }
+  ],
+  "moneyLadder": [
+    { "id": 1, "amount": "$500" },
+    { "id": 2, "amount": "$1,000" },
+    { "id": 3, "amount": "$2,000" },
+    { "id": 4, "amount": "$4,000" },
+    { "id": 5, "amount": "$8,000" },
+    { "id": 6, "amount": "$16,000" },
+    { "id": 7, "amount": "$32,000" },
+    { "id": 8, "amount": "$64,000" },
+    { "id": 9, "amount": "$125,000" },
+    { "id": 10, "amount": "$250,000" },
+    { "id": 11, "amount": "$500,000" },
+    { "id": 12, "amount": "$1,000,000" }
+  ]
+}
+
